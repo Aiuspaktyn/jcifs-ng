@@ -1,5 +1,7 @@
 # jcifs-ng
 
+[![](https://jitpack.io/v/Aiuspaktyn/jcifs-ng.svg)](https://jitpack.io/#Aiuspaktyn/jcifs-ng)
+
 A cleaned-up and improved version of the jCIFS library
 
 Latest stable release:
