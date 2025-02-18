@@ -3,8 +3,9 @@
 A cleaned-up and improved version of the jCIFS library
 
 Latest stable release:
-```
 [![](https://jitpack.io/v/Aiuspaktyn/jcifs-ng.svg)](https://jitpack.io/#Aiuspaktyn/jcifs-ng)
+```
+implementation("com.github.Aiuspaktyn:jcifs-ng:2.2.0")
 ```
 
 The 2.0 series is now discontinued.
