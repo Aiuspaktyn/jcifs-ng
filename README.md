@@ -1,22 +1,16 @@
 # jcifs-ng
 
-[![](https://jitpack.io/v/Aiuspaktyn/jcifs-ng.svg)](https://jitpack.io/#Aiuspaktyn/jcifs-ng)
-
 A cleaned-up and improved version of the jCIFS library
 
 Latest stable release:
 ```
-<dependency>
-    <groupId>eu.agno3.jcifs</groupId>
-    <artifactId>jcifs-ng</artifactId>
-    <version>2.1.9</version>
-</dependency>
+[![](https://jitpack.io/v/Aiuspaktyn/jcifs-ng.svg)](https://jitpack.io/#Aiuspaktyn/jcifs-ng)
 ```
 
 The 2.0 series is now discontinued.
 
 ### Changes
-
+ * Fixed: CVE-2024-34447, CVE-2024-30172, CVE-2024-30171, CVE-2024-29857
  * SMB2 (2.02 protocol level) support, some SMB3 support
  * Remove global state
  * Allow per context configuration
